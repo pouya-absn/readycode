@@ -1,6 +1,8 @@
 # Ready Code
-it may have happened to you,  you want to start a project or you need to enter a shebang  or have the permissions to run the script 
-you can use this script to run your projects faster and start coding
+it happens to everyone, you may want to start a project or maybe you need to enter a shebang or you might want to have the permission to run your scripts.
+this script was written to help you write code faster, better and easier.
+
+
 
 ### How to use : 
 ```bash
